@@ -1,0 +1,4 @@
+#Sun Sep 15 22:19:01 EDT 2024
+base.0=/Users/chris/chrisprojects/mobileapp/flutter_application_3/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
